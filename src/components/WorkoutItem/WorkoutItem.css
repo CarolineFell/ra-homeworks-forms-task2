@@ -1,0 +1,35 @@
+.icon {
+  cursor: pointer;
+  background-size: 30px;
+  opacity: 0.6;
+  background-size: 20px;
+  background-repeat: no-repeat;
+  color: transparent;
+}
+
+.icon:hover {
+  opacity: 1;
+}
+
+.edit {
+  background-image: url('../../img/pencil.png');
+}
+
+.delete {
+  background-image: url('../../img/delete-default.png');
+}
+
+.workout-item {
+  display: flex;
+  align-items: center;
+  width: 600px;
+  padding: 10px 20px;
+}
+
+.column-item:nth-child(n+2) {
+  margin-left: 90px;
+}
+
+.workout-item-actions {
+  display: flex;
+}

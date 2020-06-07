@@ -1,0 +1,23 @@
+.workout-list {
+  margin-top: 30px;
+  display: flex;
+  flex-direction: column;
+  flex-wrap: nowrap;
+}
+
+.workout-list-headers {
+  width: 600px;
+  font-weight: bold;
+  display: flex;
+  flex-flow: row nowrap;
+  align-items: center;
+  justify-content: space-between;
+  margin-left: -8%;
+}
+
+.workout-list-body {
+  border: .1rem solid gray;
+  margin-top: 10px;
+  border-radius: 5px;
+  margin-left: -8%;
+}

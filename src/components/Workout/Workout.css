@@ -1,0 +1,6 @@
+.workout {
+  width: 30rem;
+  display: flex;
+  flex-direction: column;
+  flex-wrap: nowrap;
+}

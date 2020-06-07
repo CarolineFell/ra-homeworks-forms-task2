@@ -1,14 +1,20 @@
 {
-  "name": "ra-homeworks-listing-task2",
+  "name": "ra-homeworks-forms-task2",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://github.com/CarolineFell/ra-homeworks-forms-task2",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.3.2",
     "@testing-library/user-event": "^7.1.2",
+    "moment": "^2.26.0",
+    "nanoid": "^3.1.9",
+    "prop-types": "^15.7.2",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
-    "react-scripts": "3.4.1"
+    "react-moment": "^0.9.7",
+    "react-scripts": "3.4.1",
+    "shortid": "^2.2.15"
   },
   "scripts": {
     "start": "react-scripts start",
@@ -30,5 +36,20 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "description": "[![Build status](https://ci.appveyor.com/api/projects/status/k53un9kvgsx8vq6e/branch/master?svg=true)](https://ci.appveyor.com/project/CarolineFell/ra-homeworks-listing-task2/branch/master)",
+  "main": "index.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CarolineFell/ra-homeworks-forms-task2.git"
+  },
+  "keywords": [
+    "forms"
+  ],
+  "author": "CarolineFell",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CarolineFell/ra-homeworks-forms-task2/issues"
   }
 }

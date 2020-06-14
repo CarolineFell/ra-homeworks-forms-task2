@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/ra-homeworks-forms-task2/static/css/main.a6061e9d.chunk.css",
+    "main.js": "/ra-homeworks-forms-task2/static/js/main.8abab874.chunk.js",
+    "main.js.map": "/ra-homeworks-forms-task2/static/js/main.8abab874.chunk.js.map",
+    "runtime-main.js": "/ra-homeworks-forms-task2/static/js/runtime-main.6872a9f8.js",
+    "runtime-main.js.map": "/ra-homeworks-forms-task2/static/js/runtime-main.6872a9f8.js.map",
+    "static/js/2.887c7f0c.chunk.js": "/ra-homeworks-forms-task2/static/js/2.887c7f0c.chunk.js",
+    "static/js/2.887c7f0c.chunk.js.map": "/ra-homeworks-forms-task2/static/js/2.887c7f0c.chunk.js.map",
+    "index.html": "/ra-homeworks-forms-task2/index.html",
+    "precache-manifest.61f5b02d496a6f72d745afb80f7ecce1.js": "/ra-homeworks-forms-task2/precache-manifest.61f5b02d496a6f72d745afb80f7ecce1.js",
+    "service-worker.js": "/ra-homeworks-forms-task2/service-worker.js",
+    "static/css/main.a6061e9d.chunk.css.map": "/ra-homeworks-forms-task2/static/css/main.a6061e9d.chunk.css.map",
+    "static/js/2.887c7f0c.chunk.js.LICENSE.txt": "/ra-homeworks-forms-task2/static/js/2.887c7f0c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6872a9f8.js",
+    "static/js/2.887c7f0c.chunk.js",
+    "static/css/main.a6061e9d.chunk.css",
+    "static/js/main.8abab874.chunk.js"
+  ]
+}
